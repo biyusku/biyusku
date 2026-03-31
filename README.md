@@ -54,6 +54,8 @@ belief      = the best workflow is one that runs without you
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biyusku&theme=github_dark" width="80%" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=biyusku&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%" />
+
 </div>
 
 <br/>
