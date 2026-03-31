@@ -43,35 +43,6 @@ belief      = the best workflow is one that runs without you
 
 ---
 
-## what I actually do
-
-Rusk Agency connects global gaming/tech brands with Turkish YouTube creators — 13 channels, 20M+ combined subscribers, in-video integrations only. No bloat, no vanity metrics.
-
-Beyond client work, I build things that scratch my own itch:
-
-| project | what it is |
-|---------|-----------|
-| [**HyperMine**](https://github.com/biyusku/hypermine) | Bitcoin mining research & control-plane platform |
-| [**C. elegans Simulator**](https://github.com/biyusku) | 302-neuron LIF neural network, real-time WebSocket streaming, FastAPI + React |
-| **Rusk Backend** | Influencer marketing platform — Fastify · Drizzle · TypeScript · 94 tests passing |
-| **AdTrackTR** | Meta CAPI e-commerce tracking — Next.js · Prisma · BullMQ · 91 tests passing |
-
----
-
-## current obsessions
-
-```python
-obsessions = [
-    "connectomics & biological neural simulation",
-    "n8n automation workflows (19-language creator outreach)",
-    "learning Chinese, English, violin — simultaneously",
-    "VR boxing as a legitimate fitness protocol",
-    "neuroscience × Islamic theology overlap (yes, it exists)",
-]
-```
-
----
-
 ## 📊 stats
 
 <div align="center">
@@ -80,18 +51,6 @@ obsessions = [
 <img src="https://raw.githubusercontent.com/Panniantong/Panniantong/master/profile-summary-card-output/github_dark/3-stats.svg" width="48%" />
 <img src="https://raw.githubusercontent.com/Panniantong/Panniantong/master/profile-summary-card-output/github_dark/4-productive-time.svg" width="48%" />
 </div>
-
----
-
-## recent activity
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#215](https://github.com/Panniantong/Agent-Reach/pull/215) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-2. 🎉 Merged PR [#238](https://github.com/Panniantong/Agent-Reach/pull/238) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-3. 💪 Opened PR [#238](https://github.com/Panniantong/Agent-Reach/pull/238) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-4. ❌ Closed PR [#205](https://github.com/Panniantong/Agent-Reach/pull/205) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-5. 🗣 Commented on [#205](https://github.com/Panniantong/Agent-Reach/pull/205#issuecomment-4161590979) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-<!--END_SECTION:activity-->
 
 ---
 
@@ -110,7 +69,9 @@ obsessions = [
 
 <div align="center">
 
-[![X / Twitter](https://img.shields.io/badge/find%20me%20on%20X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Neo_Reidlab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birusk/?locale=en)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/birusku/)
 
 *20 years old. solo operator. all systems automated.*
 
