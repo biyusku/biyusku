@@ -46,10 +46,9 @@ belief      = the best workflow is one that runs without you
 ## 📊 stats
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Panniantong/Panniantong/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
-
-<img src="https://raw.githubusercontent.com/Panniantong/Panniantong/master/profile-summary-card-output/github_dark/3-stats.svg" width="48%" />
-<img src="https://raw.githubusercontent.com/Panniantong/Panniantong/master/profile-summary-card-output/github_dark/4-productive-time.svg" width="48%" />
+<img src="https://raw.githubusercontent.com/biyusku/biyusku/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+<img src="https://raw.githubusercontent.com/biyusku/biyusku/master/profile-summary-card-output/github_dark/3-stats.svg" width="48%" />
+<img src="https://raw.githubusercontent.com/biyusku/biyusku/master/profile-summary-card-output/github_dark/4-productive-time.svg" width="48%" />
 </div>
 
 ---
