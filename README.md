@@ -12,28 +12,6 @@
 
 <br/>
 
-```bash
-$ cat /etc/birusk/identity.conf
-```
-
-```ini
-[core]
-name        = Birusk Çiğdem
-location    = Diyarbakır, TR
-age         = 20
-since       = 2021
-
-[work]
-title       = Founder & CEO @ Rusk Agency
-focus       = YouTube influencer marketing · gaming & tech brands
-stack       = AI agents, automation, TypeScript, Python
-employees   = 0 humans. all AI.
-
-[philosophy]
-motto       = build fast, ship clean, automate everything else
-belief      = the best workflow is one that runs without you
-```
-
 <br/>
 
 ## 🗂 projects
