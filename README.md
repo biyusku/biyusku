@@ -10,20 +10,6 @@
 
 </div>
 
-<br/>
-
-<br/>
-
-## 🗂 projects
-
-| repo | what | lang |
-|------|------|------|
-| [**hypermine**](https://github.com/biyusku/hypermine) | Bitcoin mining research & control-plane platform | ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB) |
-| [**openclaw**](https://github.com/biyusku/openclaw) | TypeScript backend infrastructure | ![TS](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6) |
-| [**gen-drive**](https://github.com/biyusku/gen-drive) | Generative file management system | ![Rust](https://img.shields.io/badge/-Rust-0d1117?style=flat-square&logo=rust&logoColor=CE422B) |
-
-<br/>
-
 ## 📊 stats
 
 <div align="center">
