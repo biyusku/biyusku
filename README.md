@@ -50,10 +50,9 @@ belief      = the best workflow is one that runs without you
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=biyusku&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyusku&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" width="49%" />
+<img src="https://streak-stats.demolab.com?user=biyusku&theme=github-dark-blue&hide_border=true&background=0d1117&ring=238636&fire=238636&currStreakLabel=58a6ff" width="55%" />
 
-<img src="https://streak-stats.demolab.com?user=biyusku&theme=github-dark-blue&hide_border=true&background=0d1117&ring=238636&fire=238636&currStreakLabel=58a6ff" width="60%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biyusku&theme=github_dark" width="80%" />
 
 </div>
 
