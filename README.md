@@ -1,122 +1,13 @@
-<svg width="680" height="280" viewBox="0 0 680 280" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      .bg { fill: #0d1117; }
-      .shell { fill: #0d1117; rx: 10; }
-      .prompt { font-family: 'Courier New', Courier, monospace; font-size: 13px; fill: #3fb950; }
-      .cmd    { font-family: 'Courier New', Courier, monospace; font-size: 13px; fill: #e6edf3; }
-      .key    { font-family: 'Courier New', Courier, monospace; font-size: 13px; fill: #79c0ff; }
-      .eq     { font-family: 'Courier New', Courier, monospace; font-size: 13px; fill: #484f58; }
-      .str    { font-family: 'Courier New', Courier, monospace; font-size: 13px; fill: #a8daab; }
-      .num    { font-family: 'Courier New', Courier, monospace; font-size: 13px; fill: #a5d6ff; }
-      .dim    { font-family: 'Courier New', Courier, monospace; font-size: 13px; fill: #30363d; }
-      .col    { font-family: 'Courier New', Courier, monospace; font-size: 13px; fill: #d2a8ff; }
-      .out    { font-family: 'Courier New', Courier, monospace; font-size: 13px; fill: #8b949e; }
-      .motto  { font-family: 'Courier New', Courier, monospace; font-size: 13px; fill: #e6edf3; font-style: italic; }
-    </style>
+<div align="center">
 
-    <!-- clip paths for typing effect on each command -->
-    <clipPath id="c1">
-      <rect x="186" y="44" height="18" width="0">
-        <animate attributeName="width" from="0" to="220" dur="1.1s" begin="0.4s" fill="freeze"/>
-      </rect>
-    </clipPath>
-    <clipPath id="c2">
-      <rect x="186" y="106" height="18" width="0">
-        <animate attributeName="width" from="0" to="110" dur="0.6s" begin="1.9s" fill="freeze"/>
-      </rect>
-    </clipPath>
-    <clipPath id="c3">
-      <rect x="186" y="196" height="18" width="0">
-        <animate attributeName="width" from="0" to="150" dur="0.8s" begin="3.0s" fill="freeze"/>
-      </rect>
-    </clipPath>
-  </defs>
-
-  <!-- window background -->
-  <rect width="680" height="280" rx="10" class="bg"/>
-  <rect width="680" height="280" rx="10" fill="none" stroke="#21262d" stroke-width="1"/>
-
-  <!-- traffic lights -->
-  <circle cx="28" cy="26" r="6" fill="#ff5f57"/>
-  <circle cx="50" cy="26" r="6" fill="#febc2e"/>
-  <circle cx="72" cy="26" r="6" fill="#28c840"/>
-
-  <!-- title bar divider -->
-  <line x1="0" y1="42" x2="680" y2="42" stroke="#21262d" stroke-width="1"/>
-
-  <!-- ── COMMAND 1 ── -->
-  <text x="20" y="60" class="prompt">birusk@rusk ~$</text>
-  <text x="186" y="60" class="cmd" clip-path="url(#c1)">cat identity.conf</text>
-
-  <!-- cursor 1: blinks while typing, disappears after -->
-  <rect x="186" y="46" width="7.8" height="14" fill="#3fb950">
-    <animate attributeName="x" from="186" to="404" dur="1.1s" begin="0.4s" fill="freeze"/>
-    <animate attributeName="opacity" values="1;0" dur="0.5s" begin="1.5s" fill="freeze"/>
-  </rect>
-
-  <!-- output 1 (fades in after typing) -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.6s" fill="freeze"/>
-    <text x="20" y="80"  class="dim">──────────────────────────────────────</text>
-    <text x="20" y="97">
-      <tspan class="key">name    </tspan><tspan class="eq"> = </tspan><tspan class="str">Birusk Çiğdem</tspan>
-    </text>
-    <text x="20" y="114"><!-- spacer, output starts below --></text>
-  </g>
-
-  <!-- ── COMMAND 2 ── -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.65s" fill="freeze"/>
-    <text x="20" y="114" class="prompt">birusk@rusk ~$</text>
-  </g>
-  <text x="186" y="114" class="cmd" clip-path="url(#c2)">whoami --full</text>
-
-  <rect x="186" y="100" width="7.8" height="14" fill="#3fb950">
-    <animate attributeName="x" from="186" to="296" dur="0.6s" begin="1.9s" fill="freeze"/>
-    <animate attributeName="opacity" values="1;0" dur="0.3s" begin="2.6s" fill="freeze"/>
-  </rect>
-
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.7s" fill="freeze"/>
-    <text x="20" y="133">
-      <tspan class="key">role    </tspan><tspan class="eq"> = </tspan><tspan class="str">Founder &amp; CEO @ Rusk Agency</tspan>
-    </text>
-    <text x="20" y="151">
-      <tspan class="key">location</tspan><tspan class="eq"> = </tspan><tspan class="str">Diyarbakır, TR</tspan>
-    </text>
-    <text x="20" y="169">
-      <tspan class="key">age     </tspan><tspan class="eq"> = </tspan><tspan class="num">20</tspan>
-    </text>
-    <text x="20" y="187" class="dim">──────────────────────────────────────</text>
-  </g>
-
-  <!-- ── COMMAND 3 ── -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="2.75s" fill="freeze"/>
-    <text x="20" y="206" class="prompt">birusk@rusk ~$</text>
-  </g>
-  <text x="186" y="206" class="cmd" clip-path="url(#c3)">echo $MOTTO</text>
-
-  <rect x="186" y="192" width="7.8" height="14" fill="#3fb950">
-    <animate attributeName="x" from="186" to="336" dur="0.8s" begin="3.0s" fill="freeze"/>
-    <animate attributeName="opacity" values="1;0" dur="0.3s" begin="3.9s" fill="freeze"/>
-  </rect>
-
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="4.0s" fill="freeze"/>
-    <text x="20" y="229" class="motto">build fast. ship clean. automate everything else.</text>
-  </g>
-
-  <!-- ── IDLE CURSOR (blinks forever after last command) ── -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="4.1s" fill="freeze"/>
-    <text x="20" y="256" class="prompt">birusk@rusk ~$</text>
-    <rect x="186" y="242" width="7.8" height="14" fill="#3fb950">
-      <animate attributeName="opacity" values="1;1;0;0" dur="1s" begin="4.1s" repeatCount="indefinite"/>
-    </rect>
-  </g>
-</svg>
+```
+██████╗ ██╗██████╗ ██╗   ██╗███████╗██╗  ██╗
+██╔══██╗██║██╔══██╗██║   ██║██╔════╝██║ ██╔╝
+██████╔╝██║██████╔╝██║   ██║███████╗█████╔╝ 
+██╔══██╗██║██╔══██╗██║   ██║╚════██║██╔═██╗ 
+██████╔╝██║██║  ██║╚██████╔╝███████║██║  ██╗
+╚═════╝ ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
 
 *founder · builder · obsessive*
 
