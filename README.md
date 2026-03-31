@@ -29,13 +29,9 @@ belief      = the best workflow is one that runs without you
 ```
 
 ---
-## 📊 stats
-
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=biyusku&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=biyusku&layout=compact&theme=github_dark&hide_border=true&count_private=true)
+![](https://streak-stats.demolab.com?user=biyusku&theme=github-dark&hide_border=true)
 
 </div>
 ---
