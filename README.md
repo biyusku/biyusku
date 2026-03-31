@@ -32,8 +32,6 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biyusku&theme=github_dark" width="80%" />
 
-**contributed to** &nbsp;
-[![Agent-Reach](https://img.shields.io/github/stars/Panniantong/Agent-Reach?style=flat-square&color=238636&labelColor=0d1117&logo=github&label=Agent-Reach)](https://github.com/Panniantong/Agent-Reach)
 
 </div>
 
