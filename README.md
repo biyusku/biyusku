@@ -1,19 +1,6 @@
 <div align="center">
 
-```
-██████╗ ██╗██████╗ ██╗   ██╗███████╗██╗  ██╗
-██╔══██╗██║██╔══██╗██║   ██║██╔════╝██║ ██╔╝
-██████╔╝██║██████╔╝██║   ██║███████╗█████╔╝ 
-██╔══██╗██║██╔══██╗██║   ██║╚════██║██╔═██╗ 
-██████╔╝██║██║  ██║╚██████╔╝███████║██║  ██╗
-╚═════╝ ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
-
-*founder · builder · obsessive*
-
-![Profile Views](https://komarev.com/ghpvc/?username=biyusku&style=flat-square&color=111111&labelColor=222222&label=visitors)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/biyusku?style=flat-square&color=111111&labelColor=222222&logo=github&label=followers)
+<img src="terminal-header.svg" alt="birusk terminal" />
 
 </div>
 
@@ -46,9 +33,11 @@ belief      = the best workflow is one that runs without you
 ## 📊 stats
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/biyusku/biyusku/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
-<img src="https://raw.githubusercontent.com/biyusku/biyusku/master/profile-summary-card-output/github_dark/3-stats.svg" width="48%" />
-<img src="https://raw.githubusercontent.com/biyusku/biyusku/master/profile-summary-card-output/github_dark/4-productive-time.svg" width="48%" />
+
+![](https://github-readme-stats.vercel.app/api?username=biyusku&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=biyusku&layout=compact&theme=github_dark&hide_border=true)
+
 </div>
 
 ---
