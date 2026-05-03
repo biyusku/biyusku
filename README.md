@@ -48,8 +48,4 @@
 &nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://www.instagram.com/birusku/)
 
-<br/>
-
-*20 · solo founder · 0 human employees · all systems automated*
-
 </div>
