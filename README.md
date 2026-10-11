@@ -23,22 +23,7 @@
 
 <br/>
 
-## ⚙️ stack
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![Fastify](https://img.shields.io/badge/Fastify-0d1117?style=flat-square&logo=fastify&logoColor=white)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
-![n8n](https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=EA4B71)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Drizzle](https://img.shields.io/badge/Drizzle-0d1117?style=flat-square&logo=drizzle&logoColor=C5F74F)
-![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-
-</div>
+[![My Skills](https://skillicons.dev/icons?i=anaconda%2Cblender%2Ccs%2Cdocker%2Cfastapi%2Cgolang%2Cbash%2Ccloudflare%2Celectron%2Cnodejs%2Cnpm%2Creact%2Csupabase%2Ctypescript%2Cthreejs%2Cunity%2Cunrealengine%2Cvscode%2Cvisualstudio%2Cwindows%2Caftereffects%2Cpremiere%2Cphotoshop%2Caudition%2Cillustrator%2Cgithub%2Cgit%2Crobloxstudio%2Cmongodb%2Crust&t=dark&perline=15)](https://skillicons.dev)
 
 <br/>
 
